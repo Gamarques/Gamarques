@@ -31,34 +31,24 @@ Desenvolvedor Full Stack com experiência em tecnologias modernas de desenvolvim
 
 **Desenvolvimento Profissional**
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/dd749b73-93c5-4dbe-8e79-b7b6c3e4a6c1" alt="Santander Bootcamp 2025" width="80" height="80" style="vertical-align: middle; margin-right: 15px;"/>
+  [![Bootcamp Santander](https://github.com/Gamarques/Gamarques/raw/master/bootcamp-santander%20(2).png)](https://github.com/Gamarques)
   <strong>Santander Bootcamp 2025</strong> - Programa intensivo de desenvolvimento de software
 </div>
 
 ## Stack Tecnológica
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-**Banco de Dados**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-**Ferramentas e DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/-?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-?style=flat-square&logo=next.js&logoColor=white&color=000000)
+![Node.js](https://img.shields.io/badge/-?style=flat-square&logo=node.js&logoColor=white&color=43853D)
+![Python](https://img.shields.io/badge/-?style=flat-square&logo=python&logoColor=white&color=3776AB)
+![Java](https://img.shields.io/badge/-?style=flat-square&logo=java&logoColor=white&color=ED8B00)
+![Nest.js](https://img.shields.io/badge/-?style=flat-square&logo=nestjs&logoColor=white&color=E0234E)
+![MySQL](https://img.shields.io/badge/-?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-?style=flat-square&logo=postgresql&logoColor=white&color=316192)
+![MongoDB](https://img.shields.io/badge/-?style=flat-square&logo=mongodb&logoColor=white&color=4EA94B)
+![Git](https://img.shields.io/badge/-?style=flat-square&logo=git&logoColor=white&color=F05032)
+![Docker](https://img.shields.io/badge/-?style=flat-square&logo=docker&logoColor=white&color=2496ED)
+![VS Code](https://img.shields.io/badge/-?style=flat-square&logo=visual-studio-code&logoColor=white&color=007ACC)
 
 ## Estatísticas de Desenvolvimento
 
