@@ -31,24 +31,32 @@ Desenvolvedor Full Stack com experiência em tecnologias modernas de desenvolvim
 
 **Desenvolvimento Profissional**
 <div align="left">
-  [![Bootcamp Santander](https://github.com/Gamarques/Gamarques/raw/master/bootcamp-santander%20(2).png)](https://github.com/Gamarques)
-  <strong>Santander Bootcamp 2025</strong> - Programa intensivo de desenvolvimento de software
+  <a href="https://github.com/Gamarques" title="Santander Bootcamp">
+    <img src="https://github.com/Gamarques/Gamarques/raw/master/bootcamp-santander%20(2).png" alt="Bootcamp Santander" style="height:48px;" />
+  </a>
 </div>
 
 ## Stack Tecnológica
 
-![React](https://img.shields.io/badge/-?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-?style=flat-square&logo=next.js&logoColor=white&color=000000)
-![Node.js](https://img.shields.io/badge/-?style=flat-square&logo=node.js&logoColor=white&color=43853D)
-![Python](https://img.shields.io/badge/-?style=flat-square&logo=python&logoColor=white&color=3776AB)
-![Java](https://img.shields.io/badge/-?style=flat-square&logo=java&logoColor=white&color=ED8B00)
-![Nest.js](https://img.shields.io/badge/-?style=flat-square&logo=nestjs&logoColor=white&color=E0234E)
-![MySQL](https://img.shields.io/badge/-?style=flat-square&logo=mysql&logoColor=white&color=4479A1)
-![PostgreSQL](https://img.shields.io/badge/-?style=flat-square&logo=postgresql&logoColor=white&color=316192)
-![MongoDB](https://img.shields.io/badge/-?style=flat-square&logo=mongodb&logoColor=white&color=4EA94B)
-![Git](https://img.shields.io/badge/-?style=flat-square&logo=git&logoColor=white&color=F05032)
-![Docker](https://img.shields.io/badge/-?style=flat-square&logo=docker&logoColor=white&color=2496ED)
-![VS Code](https://img.shields.io/badge/-?style=flat-square&logo=visual-studio-code&logoColor=white&color=007ACC)
+<!-- Mostrar somente ícones sem texto usando shields.io com label vazio -->
+<div align="center">
+  <!-- Container responsivo com flex-wrap e estilos padronizados para logos -->
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; align-items:center; max-width:720px; margin:0 auto;">
+    <!-- cada img tem borda sutil, padding e transição ao hover -->
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/react.svg" alt="React" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nextdotjs.svg" alt="Next.js" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nodedotjs.svg" alt="Node.js" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" alt="Python" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/java.svg" alt="Java" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/nestjs.svg" alt="Nest.js" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" alt="MySQL" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" alt="PostgreSQL" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mongodb.svg" alt="MongoDB" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/git.svg" alt="Git" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/docker.svg" alt="Docker" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudiocode.svg" alt="VS Code" width="48" height="48" style="padding:6px; background:#0b0b0b; border-radius:8px; border:1px solid rgba(255,255,255,0.06); filter:grayscale(0%); transition:transform .12s ease, filter .12s ease;" />
+  </div>
+</div>
 
 ## Estatísticas de Desenvolvimento
 
