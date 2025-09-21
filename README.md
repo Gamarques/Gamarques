@@ -31,9 +31,7 @@ Desenvolvedor Full Stack com experiência em tecnologias modernas de desenvolvim
 
 **Desenvolvimento Profissional**
 <div align="left">
-  <a href="https://github.com/Gamarques" title="Santander Bootcamp">
     <img src="./stack-icons/bootcamp-santander.png" alt="Bootcamp Santander" style="height:48px;" />
-  </a>
   - Bootcamp santander 2025 - Frontend
 </div>
 
