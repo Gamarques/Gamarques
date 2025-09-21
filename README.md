@@ -5,7 +5,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabrielgamarques/)
   [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielgamarques1@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=About.me&logoColor=white)](https://gamarques.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square)](https://gamarques.vercel.app)
   
 </div>
 
@@ -31,8 +31,14 @@ Desenvolvedor Full Stack com experiência em tecnologias modernas de desenvolvim
 
 **Desenvolvimento Profissional**
 <div align="left">
-    <img src="./stack-icons/bootcamp-santander.png" alt="Bootcamp Santander" style="height:48px;" />
-  - Bootcamp santander 2025 - Frontend
+  <a href="https://www.dio.me/certificate/PFAAJDPP/share" title="Santander Bootcamp">
+    <table>
+      <tr>
+        <td><img src="./stack-icons/bootcamp-santander.png" alt="Bootcamp Santander" width="48" /></td>
+        <td style="padding-left:8px;"><strong>Santander Bootcamp 2025</strong><br/><small>Programa intensivo de desenvolvimento de software</small></td>
+      </tr>
+    </table>
+  </a>
 </div>
 
 ## Stack Tecnológica
@@ -57,29 +63,25 @@ Desenvolvedor Full Stack com experiência em tecnologias modernas de desenvolvim
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamarques&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamarques&theme=github-dark-blue&hide_border=true" alt="Streak Stats"/>
-</div>
-
 ## Portfólio de Projetos
 
 <div align="center">
 
   <div style="display:inline-block; text-align:left; margin:12px;">
     <a href="https://gamarques.vercel.app" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/Portfolio-gamarques.vercel.app-000000?style=for-the-badge&logo=vercel" alt="Site pessoal" />
+      <img src="https://img.shields.io/badge/Portfolio-gamarques.vercel.app-000000?style=for-the-badge" alt="Site pessoal" />
     </a>
     <div style="margin-top:6px;">
-      <a href="https://github.com/Gamarques/portfolio-web" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">Código: Gamarques/portfolio-web</a>
+      <a href="https://github.com/Gamarques/portfolio-web" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">Source code</a>
     </div>
   </div>
 
   <div style="display:inline-block; text-align:left; margin:12px;">
     <a href="https://movie-recommendations-ai.streamlit.app/" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/Movie-Recommendations-AI-1F6FEB?style=for-the-badge" alt="Movie Recommendations" />
+      <img src="https://img.shields.io/badge/Project-Movie%20Recomendation-1F6FEB?style=for-the-badge" alt="Movie Recommendations" />
     </a>
     <div style="margin-top:6px;">
-      <a href="https://github.com/Gamarques/movie_recommendation_ai" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">Código: Gamarques/movie_recommendation_ai</a>
+      <a href="https://github.com/Gamarques/movie_recommendation_ai" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">Source code</a>
     </div>
   </div>
 
