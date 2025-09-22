@@ -1,16 +1,6 @@
 # Gabriel Marques
 ### Desenvolvedor Full Stack
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gabrielgamarques/)
-  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielgamarques1@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square)](https://gamarques.vercel.app)
-  
-</div>
-
-## Sobre
-
 Desenvolvedor Full Stack com experiência em tecnologias modernas de desenvolvimento web. Focado em criar soluções eficientes e escaláveis, com sólida formação em programação e constante atualização em novas tecnologias do mercado.
 
 **Áreas de Expertise:**
@@ -56,34 +46,44 @@ Desenvolvedor Full Stack com experiência em tecnologias modernas de desenvolvim
   </div>
 </div>
 
-## Estatísticas de Desenvolvimento
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gamarques&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamarques&layout=compact&langs_count=7&theme=github_dark&hide_border=true"/>
-</div>
-
 ## Portfólio de Projetos
 
 <div align="center">
 
-  <div style="display:inline-block; text-align:left; margin:12px;">
-    <a href="https://gamarques.vercel.app" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/Portfolio-gamarques.vercel.app-000000?style=for-the-badge" alt="Site pessoal" />
-    </a>
-    <div style="margin-top:6px;">
-      <a href="https://github.com/Gamarques/portfolio-web" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">Source code</a>
-    </div>
-  </div>
+<table>
+<tr>
+<td width="300" valign="top">
 
-  <div style="display:inline-block; text-align:left; margin:12px;">
-    <a href="https://movie-recommendations-ai.streamlit.app/" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/Project-Movie%20Recomendation-1F6FEB?style=for-the-badge" alt="Movie Recommendations" />
-    </a>
-    <div style="margin-top:6px;">
-      <a href="https://github.com/Gamarques/movie_recommendation_ai" target="_blank" rel="noopener" style="color:inherit; text-decoration:none;">Source code</a>
-    </div>
-  </div>
+### 🚀 Portfolio
+**Site pessoal**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-gamarques.vercel.app-000000?style=for-the-badge)](https://gamarques.vercel.app)
+
+[![Source](https://img.shields.io/badge/Source-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamarques/portfolio-web)
+
+</td>
+<td width="300" valign="top">
+
+### 🎬 Movie Recommendations
+**Recomendador de filmes (Streamlit)**
+
+[![Movie Recommendations](https://img.shields.io/badge/Movie%20Recommendations-AI-1F6FEB?style=for-the-badge)](https://movie-recommendations-ai.streamlit.app/)
+
+[![Source](https://img.shields.io/badge/Source-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gamarques/movie_recommendation_ai)
+
+</td>
+<td width="300" valign="top">
+
+### 💻 Code Challenges
+**Desafios diários no Notion**
+
+[![Notion Code Challenges](https://img.shields.io/badge/Notion-Code%20Challenges-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mahogany-club-253.notion.site/Code-challenges-2717bc86d3ff8174972bc9385bd618f2)
+
+[![Open Notion](https://img.shields.io/badge/Open-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://mahogany-club-253.notion.site/Code-challenges-2717bc86d3ff8174972bc9385bd618f2)
+
+</td>
+</tr>
+</table>
 
 </div>
 
