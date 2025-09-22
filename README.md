@@ -185,8 +185,6 @@ Desenvolvedor Full Stack com experiência em tecnologias modernas de desenvolvim
 
 <div align="center">
 
-<img src="https://github.com/Gamarques/Gamarques/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 ### 💭 Pensamento do Dia
 *"Uma lição sem dor não tem significado. Não se pode ganhar nada sem antes dar algo em troca."*
 
